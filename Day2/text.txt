@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 testing branch created
 it is created by prit
 hello
+=======
+
+resume file
+helooo all
+>>>>>>> b13277dcdddad5557f7004fb98b1b76d2bb84e45
