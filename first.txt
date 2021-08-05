@@ -1,4 +1,3 @@
 welcome to radixweb
 Hello
-editing in github
-fetching
+changing for stash 1
