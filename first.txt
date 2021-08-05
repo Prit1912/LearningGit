@@ -1,4 +1,3 @@
 welcome to radixweb
-Hello
-changing for stash 1
-main
+text file changed in local system
+
