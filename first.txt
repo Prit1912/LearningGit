@@ -8,3 +8,4 @@ stash 4
 checking branch checking
 fetching again
 updating again
+updating to check fetch
