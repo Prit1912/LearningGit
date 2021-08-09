@@ -1,2 +1,11 @@
-welcome to radixweb
-asdfghjk
+text file changed in local system
+learning fetching concept
+changing again
+once again
+stash practice
+stash 4
+checking branch checking
+fetching again
+updating again
+updating to check fetch
+
